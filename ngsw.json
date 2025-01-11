@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1736582732545,
+  "timestamp": 1736584536361,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -26,20 +26,20 @@
         "./chunk-LK453LB2.js",
         "./chunk-O6C4APJN.js",
         "./chunk-OVYIXNY7.js",
+        "./chunk-Q74XUJHP.js",
         "./chunk-R76GSOBC.js",
         "./chunk-UTUBOYBO.js",
         "./chunk-W6QVVUWU.js",
         "./chunk-WDWB23UY.js",
-        "./chunk-WU6LJDIG.js",
         "./chunk-XS7ZQDMB.js",
         "./chunk-ZA67C5BJ.js",
         "./favicon.ico",
         "./index.html",
-        "./main-FTQOVR3E.js",
+        "./main-YBJ7VPBB.js",
         "./manifest.webmanifest",
         "./polyfills-EIHHUBFE.js",
         "./scripts-LE5APFY3.js",
-        "./styles-JAXAMM22.css"
+        "./styles-ZX2CMRJQ.css"
       ],
       "patterns": []
     },
@@ -139,11 +139,11 @@
     "./chunk-LK453LB2.js": "5a2285724072445b9b9dfb63865390542e7d7952",
     "./chunk-O6C4APJN.js": "f44f65f98c12003e61d2b0ebb911977fead25618",
     "./chunk-OVYIXNY7.js": "082e7276454f8509429b667392ea165cd4c72e16",
+    "./chunk-Q74XUJHP.js": "3c5f3ee3e828a1b8fd0ef9ed79a566c39fbdb4e5",
     "./chunk-R76GSOBC.js": "b458b1caade958528497c81b0ce33dd5b6222ec5",
     "./chunk-UTUBOYBO.js": "90a0430a87aee242cc50c82cbeaf596c38e1516f",
     "./chunk-W6QVVUWU.js": "51823807111d380d2f91fd2bf945c5ca121402c3",
     "./chunk-WDWB23UY.js": "f04e7ce056ee3ad502d4b4e7657216c36f71e862",
-    "./chunk-WU6LJDIG.js": "370319d7d9e9fc8407d90afab9d1cf113c0da134",
     "./chunk-XS7ZQDMB.js": "d2d9bd9c91e83338aeb4734cfe4f332b30b1d131",
     "./chunk-ZA67C5BJ.js": "cbf1d5be25cbdc3f8863089f58d1604018e18ec0",
     "./favicon.ico": "00ee590518f214aa53a2b66209b14c181f0da1e3",
@@ -199,12 +199,12 @@
     "./icons/mstile-icon-558.png": "a7f78c45b9542a00cbafe5edafe6a53826ab5bef",
     "./icons/recurring-deposit.svg": "24b18a170e17a63708c056655ee69c02a946a1c4",
     "./icons/screenshot-1024x768.png": "992daaab8e60c9fa963a409b0148c88f789ba32e",
-    "./index.html": "0934adcc57818956a439fed2bed389bfcf30f3fb",
-    "./main-FTQOVR3E.js": "10f046358646ffbe0fa509bf47c54f1876da4ec8",
+    "./index.html": "6866e0b198c177e9ba365c344ffc99ae17c4936a",
+    "./main-YBJ7VPBB.js": "4d6d8b9500c74a0a24e38add8fba9a2416f8c4bf",
     "./manifest.webmanifest": "e14a8549669b46451e614d077d71daea32df385d",
     "./polyfills-EIHHUBFE.js": "f1b2e4fffb90c978389079d43eb87e6a35e6ab13",
     "./scripts-LE5APFY3.js": "f31398691cf04fba8e2bdc5a92cc247dce03e111",
-    "./styles-JAXAMM22.css": "fd742958829622063a5a63b04140c5aa5968e9f9"
+    "./styles-ZX2CMRJQ.css": "acc78f61cb1c5c6ae0ede61afe03e67ad957dd4b"
   },
   "navigationUrls": [
     {
