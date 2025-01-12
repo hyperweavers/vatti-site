@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1736653201069,
+  "timestamp": 1736700232049,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -35,7 +35,7 @@
         "./chunk-ZA67C5BJ.js",
         "./favicon.ico",
         "./index.html",
-        "./main-UQGX6V62.js",
+        "./main-4XFPI5FJ.js",
         "./manifest.webmanifest",
         "./polyfills-EIHHUBFE.js",
         "./scripts-LE5APFY3.js",
@@ -199,8 +199,8 @@
     "./icons/mstile-icon-558.png": "a7f78c45b9542a00cbafe5edafe6a53826ab5bef",
     "./icons/recurring-deposit.svg": "24b18a170e17a63708c056655ee69c02a946a1c4",
     "./icons/screenshot-1024x768.png": "992daaab8e60c9fa963a409b0148c88f789ba32e",
-    "./index.html": "b41687c4efa3e127515f9e36a9d95ea27f153131",
-    "./main-UQGX6V62.js": "204d6858e63d2049b6fd3293d99838285626328c",
+    "./index.html": "5c598279913c9c3a57f25e18195bfd94e7c099cb",
+    "./main-4XFPI5FJ.js": "e23b73323db1daa75356da23c18d6ffb3b828efb",
     "./manifest.webmanifest": "c9da50b5146ed882b57530ca87f0bc22ef34edf9",
     "./polyfills-EIHHUBFE.js": "f1b2e4fffb90c978389079d43eb87e6a35e6ab13",
     "./scripts-LE5APFY3.js": "f31398691cf04fba8e2bdc5a92cc247dce03e111",
