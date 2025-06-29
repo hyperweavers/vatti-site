@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1751124760850,
+  "timestamp": 1751179960022,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -11,33 +11,33 @@
         "ignoreVary": true
       },
       "urls": [
-        "./chunk-63T2NEDX.js",
+        "./chunk-22MSDSED.js",
+        "./chunk-4KWZX5KQ.js",
         "./chunk-7XPARYSA.js",
         "./chunk-AZ2D34IU.js",
-        "./chunk-B52DOSDU.js",
         "./chunk-BOX7KRZH.js",
         "./chunk-FZSKCZYC.js",
-        "./chunk-GDYHZR5E.js",
         "./chunk-H345WRE6.js",
         "./chunk-HJQZJI6Q.js",
+        "./chunk-ILUCSJIK.js",
         "./chunk-K7CTC3NK.js",
         "./chunk-KKYRTACY.js",
-        "./chunk-PJVP4BXH.js",
-        "./chunk-PTETQUTY.js",
+        "./chunk-NHRG3NS2.js",
         "./chunk-RAMV4QWF.js",
         "./chunk-RCPWYGIK.js",
         "./chunk-SYY2JMZF.js",
         "./chunk-TLY2HXBG.js",
-        "./chunk-TUUA2PVO.js",
+        "./chunk-TNWNRU24.js",
+        "./chunk-UDVLR4DT.js",
         "./chunk-UOR6ZLJB.js",
+        "./chunk-V4HLNTOQ.js",
         "./chunk-VC6ZNM6H.js",
         "./chunk-VICN7ROL.js",
         "./chunk-WK2KISC4.js",
         "./chunk-YJVCHVU7.js",
-        "./chunk-ZBNF3K7V.js",
         "./favicon.ico",
         "./index.html",
-        "./main-6JLYXNXE.js",
+        "./main-XSHJSQSR.js",
         "./manifest.webmanifest",
         "./polyfills-EIHHUBFE.js",
         "./scripts-LE5APFY3.js",
@@ -112,9 +112,9 @@
   ],
   "dataGroups": [
     {
-      "name": "gold-price-api",
+      "name": "live-gold-price-api",
       "patterns": [
-        "https:\\/\\/api-new\\.nacjewellers\\.com\\/graphql"
+        "https:\\/\\/api-live\\.nacjewellers\\.com\\/graphql"
       ],
       "strategy": "freshness",
       "maxSize": 5,
@@ -126,11 +126,11 @@
       "version": 1
     },
     {
-      "name": "json-blob-api",
+      "name": "data-api",
       "patterns": [
-        "https:\\/\\/jsonblob\\.com\\/api\\/jsonBlob\\/1328064967722852352",
+        "https:\\/\\/jsonblob\\.com\\/api\\/jsonBlob\\/1388767732731928576",
         "https:\\/\\/jsonblob\\.com\\/api\\/jsonBlob\\/1328296657577762816",
-        "https:\\/\\/jsonblob\\.com\\/api\\/jsonBlob\\/1328392058737713152"
+        "https:\\/\\/jsonblob\\.com\\/api\\/jsonBlob\\/1388767381014372352"
       ],
       "strategy": "performance",
       "maxSize": 20,
@@ -142,9 +142,9 @@
       "version": 1
     },
     {
-      "name": "json-blob-api",
+      "name": "ibja-gold-price-api",
       "patterns": [
-        "https:\\/\\/jsonblob\\.com\\/api\\/jsonBlob\\/1328432133789900800"
+        "https:\\/\\/jsonblob\\.com\\/api\\/jsonBlob\\/1388767571448356864"
       ],
       "strategy": "freshness",
       "maxSize": 5,
@@ -157,30 +157,30 @@
     }
   ],
   "hashTable": {
-    "./chunk-63T2NEDX.js": "969c5e576217123a5cb5bc1fdaa2ef3b67e8181c",
+    "./chunk-22MSDSED.js": "fb601851d12d8845d50a0410c902a06e165acd25",
+    "./chunk-4KWZX5KQ.js": "726b1b1d9837f0604b9b36a40c0fa16c0f5f98e2",
     "./chunk-7XPARYSA.js": "3a35f8344734e162dddf7f5bd25d07004a8e255a",
     "./chunk-AZ2D34IU.js": "dc5ea4dc70ef4cac41eb19c81841c8cdf1865ddf",
-    "./chunk-B52DOSDU.js": "780816949eecab16dd5c164791cfe43b267cac10",
     "./chunk-BOX7KRZH.js": "172c6da1206ee8cd1d6566bbfcfa56d4b83fdf60",
     "./chunk-FZSKCZYC.js": "d9419cf2a444ba6bd9e7c4f36fded005ee0823d9",
-    "./chunk-GDYHZR5E.js": "5d17b23ac82c204005d02791cc467c215a4beec8",
     "./chunk-H345WRE6.js": "d27b895d1d45a91f122539da8333aaf20e4a35b5",
     "./chunk-HJQZJI6Q.js": "b625fb610bd317ce33da0726a0f8fd10b6906bb7",
+    "./chunk-ILUCSJIK.js": "4c01e9cebc4169d4abe58dce90a60216d3ae95a7",
     "./chunk-K7CTC3NK.js": "c8c0659f57a3e5812d264cdb4cbccab734dcd253",
     "./chunk-KKYRTACY.js": "7881993f54e859b27c14bc87e74dc9f1126e2f89",
-    "./chunk-PJVP4BXH.js": "1d27311b1314722d27340a16ea4bf51435b1e4d1",
-    "./chunk-PTETQUTY.js": "c3285fd9011290b602ae310bc3d5e86678f4350a",
+    "./chunk-NHRG3NS2.js": "d52a643f70b539e0b7f084b784f1cc2dcdf922b9",
     "./chunk-RAMV4QWF.js": "e90a21a2e1d74ba109d285b29deeeeddedb5dd56",
     "./chunk-RCPWYGIK.js": "3d84e7e251cee81fe55c4b67ecfad8328ea79a91",
     "./chunk-SYY2JMZF.js": "502679a8fad700cf3270008cf81550812b2159c0",
     "./chunk-TLY2HXBG.js": "690ec2b89640f598138d11f76d4343d219849809",
-    "./chunk-TUUA2PVO.js": "64f9efee36efd32a7d09faed5e615f79f24ff94b",
+    "./chunk-TNWNRU24.js": "31a73e46e1760adc8c7934e646ef00f85e95c783",
+    "./chunk-UDVLR4DT.js": "77120d29f3c62c5536552fd9435253ee62c7578b",
     "./chunk-UOR6ZLJB.js": "a04257187a34a6becbd5db896bf3f0dea649a79a",
+    "./chunk-V4HLNTOQ.js": "670188120887c7b17e91bcfb0068b38ef37a4a32",
     "./chunk-VC6ZNM6H.js": "228b5c739190d9eb29d40b060e7cb2b29b1cfda3",
     "./chunk-VICN7ROL.js": "f9c4d756d149546cfa67cc05da280f4c51844fcb",
     "./chunk-WK2KISC4.js": "3cfa61e64d79561534a0dd4a11b6950d7752d65c",
     "./chunk-YJVCHVU7.js": "11c6fd92254a81fac5be8b1a1a7ead436b1f70fd",
-    "./chunk-ZBNF3K7V.js": "3d3b8ae5bee6f7ba3b54ec6b663dfdde5872a313",
     "./favicon.ico": "00ee590518f214aa53a2b66209b14c181f0da1e3",
     "./icons/apple-icon-180.png": "52412856d7469ae6ee5a6b6542933d016df70b78",
     "./icons/apple-splash-1125-2436.png": "6909e71fef41e68a428ee425c1f50aea2c55ed3f",
@@ -235,8 +235,8 @@
     "./icons/post-office-savings-schemes.svg": "a1e853272009a6aa2003d1adc9ef28edb9d13995",
     "./icons/recurring-deposit.svg": "24b18a170e17a63708c056655ee69c02a946a1c4",
     "./icons/screenshot-1024x768.png": "992daaab8e60c9fa963a409b0148c88f789ba32e",
-    "./index.html": "8cfcbbb759396a9835ae249c1a33f0b8ad8c39d5",
-    "./main-6JLYXNXE.js": "46940dbd5a9d558ba60423b31cfa2d15183188da",
+    "./index.html": "f1750c0d9a6e64e8a2efd5e34f21d732ac2c9240",
+    "./main-XSHJSQSR.js": "756616a5b1b05af572db53f35185b5ab481646fc",
     "./manifest.webmanifest": "c9da50b5146ed882b57530ca87f0bc22ef34edf9",
     "./polyfills-EIHHUBFE.js": "f1b2e4fffb90c978389079d43eb87e6a35e6ab13",
     "./scripts-LE5APFY3.js": "f31398691cf04fba8e2bdc5a92cc247dce03e111",
