@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1779658830350,
+  "timestamp": 1779657237703,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -38,7 +38,7 @@
         "./chunk-WZ242MH6.js",
         "./favicon.ico",
         "./index.html",
-        "./main-GYL3C3QG.js",
+        "./main-TJSPS5PY.js",
         "./manifest.webmanifest",
         "./polyfills-5I62HOGW.js",
         "./scripts-A3N3CAGG.js",
@@ -237,8 +237,8 @@
     "./icons/post-office-savings-schemes.svg": "a1e853272009a6aa2003d1adc9ef28edb9d13995",
     "./icons/recurring-deposit.svg": "24b18a170e17a63708c056655ee69c02a946a1c4",
     "./icons/screenshot-1024x768.png": "992daaab8e60c9fa963a409b0148c88f789ba32e",
-    "./index.html": "616560e6431b360cc2deb9eae0bc88e6fb5a535c",
-    "./main-GYL3C3QG.js": "8a6e5ecba73d2155486aede93450d1ac9e7f12ac",
+    "./index.html": "f5ed8a7e5c65f139d48c81b6cbdd97de94812149",
+    "./main-TJSPS5PY.js": "4cfb75da459060731839c3de79807b356080ffb9",
     "./manifest.webmanifest": "c9da50b5146ed882b57530ca87f0bc22ef34edf9",
     "./polyfills-5I62HOGW.js": "cba10dbe7d4a575848c344fc5a7bc59ea58a5d2a",
     "./scripts-A3N3CAGG.js": "0643144848797475a713f21bfb44b9d67f7c1efe",
